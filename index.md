@@ -15,20 +15,20 @@ Minneapolis, MN, Jan. 2012 – Jan. 2015**
 
 I helped launch the SaaS company Nouvant, an online marketing and licensing platform for university research departments to commercialize their technologies. I worked with university technology transfer offices to provide content strategy and application training, and to translate client needs into the development of the Nouvant software.
 
-I began my tenure writing – and leading a remote team of writers to write – technology marketing abstracts ([writing sample: Nouvant Technology Page](http://inventions.umich.edu/technologies/4537_functional-independence-measure-software-based-on-barthel-index-assesses-activities-of-daily-living-adls-with-animated-images)) from highly technical source material like patent filings and research publications. I soon took on client services, for which I managed the entire client life-cycle: sales, product demo, onboard, admin training, and ongoing support.
+I began my tenure writing – and leading a remote team of writers to write – technology marketing abstracts (see [writing sample: Nouvant technology page](http://inventions.umich.edu/technologies/4537_functional-independence-measure-software-based-on-barthel-index-assesses-activities-of-daily-living-adls-with-animated-images)) from highly technical source material like patent filings and research publications. I soon took on client services, for which I managed the entire client life-cycle: sales, product demo, onboard, admin training, and ongoing support.
 
 I worked closely with our development team to design both our clients’ customer-facing Web pages and the Nouvant administrative applications. I helped define user experience and workflows; to guide software improvements, features, and new modules; and to align product development with long-term business strategy.
  
 Later, I initiated and remotely led software issue and improvement projects with an offshore team of contract developers. After leaving Nouvant in 2015, I consulted with the new parent company to ensure a smooth transfer and communication to clients. 
 
 Highlights of my work include:
-* Developed data-management and content-creation and tools and training (see writing sample – markdown template) 
-* Trained clients and business partners in the use of third-party data management systems to populate Nouvant sites with well-formatted, search-engine-friendly content pages (see writing sample – Technology Publisher tutorial)
+* Developed data-management and content-creation and tools and training 
+* Trained clients and business partners in the use of third-party data management systems to populate Nouvant sites with well-formatted, search-engine-friendly content pages 
 * Reviewed and audited public-facing content and backend data
 * Created online and live, remote client training
-* Wrote content for Nouvant corporate website [writing sample: Nouvant Portfolio](https://login.nouvant.com/portfolio) and designed marketing materials (tradeshow booth and banner, slide show, flyers, etc.)
+* Wrote content for Nouvant corporate website (see [writing sample: Nouvant Portfolio](https://login.nouvant.com/portfolio)) and designed marketing materials (tradeshow booth and banner, slide show, flyers, etc.)
 * Created wireframes and workflows to guide user-interface design and software architecture 
-* Transferred for-print university licensing agreements to Web format with placeholders and variables for “click-through” online licensing [work sample: license format](https://secure.nouvant.com/umn/technology/94019/license/201)
+* Transferred for-print university licensing agreements to Web format with placeholders and variables for “click-through” online licensing (see [work sample: license format](https://secure.nouvant.com/umn/technology/94019/license/201))
 * Collaborated with a multi-university focus group on the design of a draft “universal taxonomy” for research technologies
 
 **Content Manager – Metropolitan State University<br>
