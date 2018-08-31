@@ -19,7 +19,7 @@ I began my tenure writing – and leading a distributed team of writers to write
 
 I worked closely with our development team to design both our clients’ customer-facing Web pages and the Nouvant administrative applications. I helped define user experience and workflows; to guide software improvements, features, and new modules; and to align product development with long-term business strategy.
  
-Later, I initiated and remotely led software issue and improvement projects with an offshore team of contract developers. After leaving Nouvant in 2015, I consulted with the new parent company to ensure a smooth transfer and communication to clients. 
+Later, I initiated and remotely led software issue and improvement projects with an offshore team of contract developers, using Jira. After leaving Nouvant in 2015, I consulted with the new parent company to ensure a smooth transfer and communication to clients. 
 
 Highlights of my work include:
 * Developed data-management and content-creation tools and training 
