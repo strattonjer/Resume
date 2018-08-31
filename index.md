@@ -64,7 +64,7 @@ St. Paul, Minnesota, 1997
 **Technical Skills**
 
 * Software project management tools (GitHub, Jira, Pivotal Tracker, Basecamp)
-* (X)HTML, CSS, markdown, XML, XML authoring tools (oXygen)
+* (X)HTML, CSS, markdown, XML, structured data, XML authoring (oXygen)
 * Web-based content management systems (Wordpress, Drupal, Collage, custom)
 * Adobe InDesign, Illustrator, Photoshop, Acrobat Pro 
 * Microsoft Office applications (Word, Excel, PowerPoint, Project) 
